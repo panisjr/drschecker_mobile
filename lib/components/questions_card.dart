@@ -71,7 +71,7 @@ class CardExample extends StatelessWidget {
                   child: InkWell(
                     splashColor: Colors.blue.withAlpha(30),
                     onTap: () {
-                      debugPrint('Card tapped.');w
+                      debugPrint('Card tapped.asdf');
                     },
                     child: SizedBox(
                       width: 320,
